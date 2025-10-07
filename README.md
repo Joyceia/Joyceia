@@ -32,10 +32,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
-
----
-
 💬 *Thanks for visiting my profile! Feel free to star ⭐ my repositories or reach out for collaboration.*
