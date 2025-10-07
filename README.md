@@ -2,9 +2,6 @@
 🎓 I’m a Ph.D student major in **AI Safety & Privacy**, **privacy-preserving computation**.  
 📚 Always open to academic collaboration and innovative research ideas.  
 
-📫 **Reach me at:** [your_email@example.com]  
-🌐 **Personal Page:** [your_website_or_blog](https://your-site.com)
-
 ---
 
 ### 🧩 Research Interests / 研究方向
