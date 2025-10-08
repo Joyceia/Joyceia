@@ -11,6 +11,7 @@
 - 🧮 Multi-Party Computation  
 
 
+<!--
 ### 💻 Skills & Tools / 技能与工具
 
 #### Programming Languages
@@ -20,6 +21,7 @@
 #### Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+-->
 
 ### ✨ Quote of the Day
 
