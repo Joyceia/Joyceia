@@ -2,7 +2,7 @@
 🎓 I’m a Ph.D student major in **AI Safety & Privacy**, **privacy-preserving computation**.  
 📚 Always open to academic collaboration and innovative research ideas.  
 
-🌐 **Personal Page:** [Joyceia](https://Joyceia.github.io)
+<!--🌐 **Personal Page:** [Joyceia](https://Joyceia.github.io)-->
 
 
 ### 🧩 Research Interests / 研究方向
